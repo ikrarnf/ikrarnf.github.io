@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.00, minimum-scale=1.00, user-scalable=no">
+    <title>Document</title>
+
+
+    <link rel="stylesheet" href="./css/all.css">
+    <link rel="stylesheet" href="./css/aos.css">
+    <link rel="stylesheet" href="./css/font.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <main id="home">
+        <h1 class="brand"><a href="#" target="blank">IKRARNF</a></h1>
+        <nav class="menu-area">
+            <ul>
+                <li><a href="#home" class="links leftLinks">HOME,</a></li>
+                <li><a href="#section1" class="links leftLinks">PROJECTS,</a></li>
+                <li><a href="#section2" class="links rightLinks">SHOOT,</a></li>
+                <li><a href="#section3" class="links rightLinks">ABOUT</a></li>
+            </ul>
+        </nav>
+        <div class="container-slideshow">
+            <h2 class="siteTitle-front" id="title">戦<br>士</h2>
+            <div class="mySlides fade">
+                <img src="./assets/IMG_20211013_200453_718.jpg" alt="#1">
+            </div>
+            <div class="mySlides fade">
+                <img src="./assets/IMG_20211013_200456_722.jpg" alt="#2">
+            </div>
+            <div class="mySlides fade">
+                <img src="./assets/IMG_20211013_200217_193.jpg" alt="#3">
+            </div>
+            <div class="mySlides fade">
+                <img src="./assets/IMG_20211013_200357_070.jpg" alt="#3">
+            </div>
+            <div class="mySlides fade">
+                <img src="./assets/IMG_20211013_200130_177.jpg" alt="#3">
+            </div>
+        </div>
+        <div class="line-index">
+            <div class="line Active" onclick="currentSlide(1)"></div>
+            <div class="line" onclick="currentSlide(2)"></div>
+            <div class="line" onclick="currentSlide(3)"></div>
+            <div class="line" onclick="currentSlide(4)"></div>
+            <div class="line" onclick="currentSlide(5)"></div>
+        </div>
+        <aside class="page-index">
+            <ul class="sidemenu">
+                <li><a href="#home" class="paginate" id="first">MAIN,</a></li>
+                <li><a href="#section1" class="paginate" id="second">PROJECTS,</a></li>
+                <li><a href="#section2" class="paginate" id="third">SHOOT,</a></li>
+                <li><a href="#section3" class="paginate" id="fourth">ME?</a></li>
+            </ul>
+        </aside>
+        <div class="caret">
+            <i class="fas fa-caret-right" onclick="plusSlides(+1)"></i>
+            <i class="fas fa-caret-left" onclick="plusSlides(-1)"></i>
+        </div>
+    </main>
+    <section id="section1">
+        <div class="top">
+            <div class="lineDeco"></div>
+            <h2 class="sectionTitle">PROJECTS,</h2>
+        </div>
+        <div class="content">
+            <div class="comment">
+                <p>Hola, my name is Ikrar</p>
+                <p>Those are my Projects in less then a year since i learnt web developing.</p>
+            </div>
+            <div class="slideShow">
+                <div class="projectSlide fade1">
+                    <a href="#"><img src="./assets/wargaz.jpg" alt="wgs"></a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="section2">
+        <h2>SHOOT,</h2>
+        <div class="slideshowContainer">
+            <img src="./assets/IMG_20211013_200130_177.jpg" alt="#">
+            <img src="./assets/IMG_20211013_200217_193.jpg" alt="#">
+            <img src="./assets/IMG_20211013_200317_350.jpg" alt="#">
+            <img src="./assets/IMG_20211013_200357_070.jpg" alt="#">
+            <img src="./assets/IMG_20211013_200415_185.jpg" alt="#">
+            <img src="./assets/IMG_20211013_200432_588.jpg" alt="#">
+            <img src="./assets/IMG_20211013_200453_718.jpg" alt="#">
+            <img src="./assets/IMG_20211013_200456_722.jpg" alt="#">
+        </div>
+        <div class="slideIndex">
+            <div class="lineIndex"></div>
+            <div class="lineIndex"></div>
+            <div class="lineIndex"></div>
+            <div class="lineIndex"></div>
+            <div class="lineIndex"></div>
+        </div>
+    </section>
+    <section id="section3">
+        <div class="section-container">
+            <div class="mySections fade1">
+                <h2>Who am i?</h2>
+                <div class="portNav">
+                    <div class="portNav-container">
+                        <i class="fas fa-chevron-left left button" onclick="plusSections(-1)"></i><i class="fas fa-chevron-right right button" onclick="plusSections(+1)"></i>
+                    </div>
+                    <p>&#x2f;</p>
+                </div>
+            </div>
+            <div class="mySections fade1">
+                <div class="section-container fade">
+                    <img src="./assets/logo1.png" alt="#">
+                    <div class="myDescription fade1">
+                        <h2 class="biblio">myIdentity</h2>
+                        <h3>MUHAMMAD IKRAR <br> NUR FIKRI</h3>
+                        <h4>SUKABUMI <br> 1998/11/09</h4>
+                    </div>
+                </div>
+                <i class="fas fa-chevron-left leftSide fade2" onclick="plusSections(-1)"></i>
+            </div>
+        </div>
+        <div id="moveUp" class="move-up">
+            <span><i class="fas fa-arrow-circle-up fa-2x"></i></span>
+        </div>
+    </section>
+    <script src="./js/jquery3.6.0.min.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+</html>

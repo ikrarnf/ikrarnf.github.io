@@ -1,0 +1,256 @@
+
+/* Caveat */
+@font-face {
+    font-family: Caveat;
+    src: url('../font/Caveat/Caveat-VariableFont_wght.ttf');
+}
+
+/* DancingScript */
+@font-face {
+    font-family: DancingScript;
+    src: url('../font/Dancing_Script/DancingScript-VariableFont_wght.ttf');
+}
+
+/* Festive */
+@font-face {
+    font-family: Festive;
+    src: url('../font/Festive/Festive-Regular.ttf');
+}
+
+/* Fuggles */
+@font-face {
+    font-family: Fuggles;
+    src: url('../font/Fuggles/Fuggles-Regular.ttf');
+}
+
+/* IndieFlower */
+@font-face {
+    font-family: IndieFlower;
+    src: url('../font/Indie_Flower/IndieFlower-Regular.ttf');
+}
+
+/* Merienda */
+@font-face {
+    font-family: Merienda;
+    src: url('../font/Merienda/Merienda-Bold.ttf');
+}
+
+/* Montserrat */
+@font-face {
+    font-family: Montserrat;
+    src: url('../font/Montserrat/Montserrat-Black.ttf');
+}
+
+/* PermanentMarker */
+@font-face {
+    font-family: PermanentMarker;
+    src: url('../font/Permanent_Marker/PermanentMarker-Regular.ttf');
+}
+
+/* Pacifico */
+@font-face {
+    font-family: Pacifico;
+    src: url('../font/Pacifico/Pacifico-Regular.ttf');
+}
+
+/* Righteous */
+@font-face {
+    font-family: Righteous;
+    src: url('../font/Righteous/Righteous-Regular.ttf');
+}
+
+/* Satisfy */
+@font-face {
+    font-family: Satisfy;
+    src: url('../font/Satisfy/Satisfy-Regular.ttf');
+}
+
+/* ShadowsIntoLight */
+@font-face {
+    font-family: ShadowsIntoLight;
+    src: url('../font/Shadows_Into_Light/ShadowsIntoLight-Regular.ttf');
+}
+
+/* SourceSerifPro */
+@font-face {
+    font-family: SourceSerifPro;
+    src: url('../font/Source_Serif_Pro/SourceSerifPro-Black.ttf');
+}
+
+/* WRESTLEMANIA */
+@font-face {
+    font-family: WRESTLEMANIA;
+    src: url('../font/Wrestlemania/WRESTLEMANIA.ttf');
+}
+
+/* Western Retro */
+@font-face {
+    font-family: Western_retro;
+    src: url('../font/Western_retro/Western\ Retro.ttf');
+}
+
+/* Vintage_warehouse */
+@font-face {
+    font-family: Vintage_warehouse;
+    src: url('../font/Vintage_warehouse/Vintage\ Warehouse.ttf');
+}
+
+/* Tunning */
+@font-face {
+    font-family: Tunning;
+    src: url('../font/Tunning/Tunning-OxideBold.ttf');
+}
+
+/* The_rustic */
+@font-face {
+    font-family: The_rustic;
+    src: url('../font/The_rustic/TheRustic-Demo.ttf');
+}
+
+/* The_bangles */
+@font-face {
+    font-family: The_bangles;
+    src: url('../font/The_bangles/The\ Bangles.ttf');
+}
+
+/* Sunset_boulevard */
+@font-face {
+    font-family: Sunset_boulevard;
+    src: url('../font/Sunset_boulevard/Sunset\ Boulevard.otf');
+}
+
+/* Romantice */
+@font-face {
+    font-family: Romantice;
+    src: url('../font/Romantice/ROMANTICE.otf');
+}
+
+/* Rockout */
+@font-face {
+    font-family: Rockout;
+    src: url('../font/Rockout/Rockout.otf');
+}
+
+/* Restroom */
+@font-face {
+    font-family: Restroom;
+    src: url('../font/Restroom/Restroom.ttf');
+}
+
+/* Restaurant_menu */
+@font-face {
+    font-family: Restaurant_menu;
+    src: url('../font/Restaurant_menu/RestaurantMenu.ttf');
+}
+
+/* Payback */
+@font-face {
+    font-family: Payback;
+    src: url('../font/Payback/PaybAck.ttf');
+}
+
+/* Nadall */
+@font-face {
+    font-family: Nadall;
+    src: url('../font/Nadall/NADALL.TTF');
+}
+
+/* Market_deco */
+@font-face {
+    font-family: Market_deco;
+    src: url('../font/Market_deco/Market_Deco.ttf');
+}
+/* Jack_frost */
+@font-face {
+    font-family: Jack_frost;
+    src: url('../font/Jack_frost/Jack\ Frost.otf');
+}
+/* Gin_and_soda */
+@font-face {
+    font-family: Gin_and_soda;
+    src: url('../font/Gin_and_soda/GIN_AND_SODA_PERSONAL_USE.ttf');
+}
+/* Franchise */
+@font-face {
+    font-family: Franchise;
+    src: url('../font/Franchise/Franchise.ttf');
+}
+/* Evil_empire */
+@font-face {
+    font-family: Evil_empire;
+    src: url('../font/Evil_empire/Evil_Empire.otf');
+}
+/* Demode */
+@font-face {
+    font-family: Demode;
+    src: url('../font/Demode/Demode.ttf');
+}
+/* Brotherline */
+@font-face {
+    font-family: Brotherline;
+    src: url('../font/Brotherline/Brotherline.ttf');
+}
+/* Breamcatcher */
+@font-face {
+    font-family: Breamcatcher;
+    src: url('../font/Breamcatcher/breamcatcher.ttf');
+}
+/* Blackside */
+@font-face {
+    font-family: Blackside;
+    src: url('../font/Blackside/Blackside.otf');
+}
+/* Billionaire */
+@font-face {
+    font-family: Billionaire;
+    src: url('../font/Billionaire/BillionaireMediumGrunge.ttf');
+}
+/* Baroneys */
+@font-face {
+    font-family: Baroneys;
+    src: url('../font/Baroneys/BaroneysTextured.ttf');
+}
+/* Atlantic_Cruise */
+@font-face {
+    font-family: Atlantic_Cruise;
+    src: url('../font/Atlantic_Cruise/Atlantic_Cruise-Demo.ttf');
+}
+/* American_Captain */
+@font-face {
+    font-family: American_Captain;
+    src: url('../font/American_Captain/American_Captain.otf');
+}
+/* Kind_of_rock */
+@font-face {
+    font-family: Kind_of_rock;
+    src: url('../font/Kind_of_rock/Kind_Of_Rock.ttf');
+}
+/* TypoGraphica */
+@font-face {
+    font-family: TypoGraphica;
+    src: url('../font/typographica/TypoGraphica_demo.otf');
+}
+@font-face {
+    font-family: UniHeavy;
+    src: url('../font/uni/uniHeavy.otf');
+}
+@font-face{
+    font-family: UniThin;
+    src: url('../font/uni/uniThin.otf');
+}
+@font-face{
+    font-family: Linlegrey;
+    src: url(../font/Linlegrey/Linlegreyregular.otf);
+}
+@font-face{
+    font-family: ArabTebal;
+    src: url(../font/arabgoks/ScheherazadeNew-Regular.ttf);
+}
+@font-face{
+    font-family: Mincho;
+    src: url(../font/mincho/Harenosora.otf);
+}
+@font-face{
+    font-family: Arigato;
+    src: url(../font/arigato/aArigatouGozaimasu.ttf);
+}
